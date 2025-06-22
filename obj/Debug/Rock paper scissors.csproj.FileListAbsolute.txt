@@ -1,0 +1,17 @@
+E:\c# projects\Rock paper scissors\bin\Debug\Rock paper scissors.exe.config
+E:\c# projects\Rock paper scissors\bin\Debug\Rock paper scissors.exe
+E:\c# projects\Rock paper scissors\bin\Debug\Rock paper scissors.pdb
+E:\c# projects\Rock paper scissors\bin\Debug\Guna.UI2.dll
+E:\c# projects\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.AssemblyReference.cache
+E:\c# projects\Rock paper scissors\obj\Debug\Rock_paper_scissors.Properties.Resources.resources
+E:\c# projects\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.GenerateResource.cache
+E:\c# projects\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.CoreCompileInputs.cache
+E:\c# projects\Rock paper scissors\obj\Debug\Rock pap.75476B1C.Up2Date
+E:\c# projects\Rock paper scissors\obj\Debug\Rock paper scissors.exe
+E:\c# projects\Rock paper scissors\obj\Debug\Rock paper scissors.pdb
+E:\c# projects\Rock paper scissors\bin\Debug\Krypton.Toolkit.dll
+E:\c# projects\Rock paper scissors\bin\Debug\Krypton.Toolkit.xml
+E:\c# projects\Rock paper scissors\obj\Debug\Rock_paper_scissors.frmStartGame.resources
+E:\c# projects\Rock paper scissors\obj\Debug\Rock_paper_scissors.frmStartScreen.resources
+E:\c# projects\Rock paper scissors\obj\Debug\Rock_paper_scissors.frmMainScreen.resources
+E:\c# projects\Rock paper scissors\obj\Debug\Rock_paper_scissors.frmShowFinalGameResultsScreen.resources
